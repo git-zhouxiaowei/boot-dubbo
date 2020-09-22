@@ -7,5 +7,6 @@ SpringBoot版简单Dubbo的使用，思想很重要
     provider-api     生产者公共接口模块
     provider-service 生产者模块
     consumer         消费者模块
+4、如需查看生产消费关系，下载启动可视化项目：https://github.com/apache/dubbo-admin
     
 启动项目后直接访问：http://localhost:9001/buy 
